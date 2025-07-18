@@ -5,10 +5,10 @@
 
 🌱 I’m passionate about building and automating cloud-native systems using tools like:
 
-- ☁️ **AWS (EKS, EC2, S3, ECS)**  
+- ☁️ **AWS (EKS, VPC, Lambda,EC2, S3, ECS, Cloudwatch)**  
 - 🔧 **Terraform, Ansible, Jenkins, GitHub Actions**  
 - 📦 **Docker, Kubernetes**  
-- 📊 **Prometheus, Grafana, OpenTelemetry**  
+- 📊 **Prometheus, Grafana, Loki**  
 - 🧪 **SonarQube, Trivy**  
 - 📜 **Scripting:** Bash, Python, YAML
 
